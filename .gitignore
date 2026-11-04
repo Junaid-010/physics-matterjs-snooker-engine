@@ -1,0 +1,12 @@
+# Operating System & IDE
+.DS_Store
+.vscode/
+
+# Academic briefs, video recordings, and raw text dumps
+*.pdf
+*.docx
+*.doc
+*.mp4
+*.mov
+*.avi
+combined_javascript.txt
